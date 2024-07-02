@@ -1,0 +1,11 @@
+.play-icon {
+  height: 12px;
+}
+
+.back-top {
+  font-weight: bold;
+}
+
+.back-top:hover {
+  text-decoration: underline;
+}
